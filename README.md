@@ -1,9 +1,7 @@
-# DPTennis
-Public APK and AAB Bundle for my App DPTennis
-
-
-
 # DPTennis - Tennis Practice Tracker
+
+In this repo, I have put the Public APK and AAB Bundle for my App DPTennis. Since I am not 18 yet, I will not be able to publish the app onto the Google Play Store, or any other commerical distribution app stores.
+
 
 **DPTennis** is a comprehensive Android application designed to help tennis players of all skill levels improve their game through detailed practice tracking and analysis. This innovative app transforms how players approach their training by providing structured feedback systems and performance insights.
 
